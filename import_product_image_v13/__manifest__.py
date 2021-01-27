@@ -22,8 +22,8 @@
 {
     'name': "Import Product Image",
     'version': '0.1.0.0',
-    'summary': """Import Product Image from CSV File""",
-    'description': """Import Product Image from CSV File(Web URL/File Path)""",
+    'summary': """Import Product Image from a URL into Inventory""",
+    'description': """Import Product Image from  a URL into Inventory""",
     'author': "Ehio Technologies",
     'company': 'Ehio Technologies',
     'maintainer': 'Ehio Technologies',
