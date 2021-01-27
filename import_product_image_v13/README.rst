@@ -1,7 +1,9 @@
-Import Product Image v11
+This module was upgraded to v13 by Ehio Technologies <https://www.ehiotech.com>, but was originally written for v11 by Cybrosys
+
+Import Product Image v13
 ========================
 
-This  Cybrosys's module allows you to import images for a product/product variant from a
+This  module allows you to import images for a product/product variant from a
 CSV file using URL and file path. You can also create a new product from the wizard
 if it does not exist in the system.
 
@@ -20,9 +22,8 @@ Technical Notes
 
 Used Libraries:
 
-* urllib2
+* urllib
 * requests
-* urllib2
 * base64
 
 License
@@ -36,6 +37,7 @@ Bugs are tracked on GitHub Issues. In case of trouble, please check there if you
 
 Credits
 =======
+* Ehio Technologies<https://www.ehiotech.com>
 * Cybrosys Techno Solutions<https://www.cybrosys.com>
 
 Author
@@ -46,6 +48,6 @@ Developer: Saritha @ cybrosys, saritha@cybrosys.in
 Maintainer
 ----------
 
-This module is maintained by Cybrosys Technologies.
+This module is maintained by Ehio Technologies.
 
-For support and more information, please visit https://www.cybrosys.com.
+For support and more information, please visit https://www.ehiotech.com.
